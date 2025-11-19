@@ -1,0 +1,21 @@
+.profile-page {
+  padding: 2rem 0;
+}
+
+.profile-page h1 {
+  font-size: 2.5rem;
+  margin-bottom: 2rem;
+}
+
+.profile-card {
+  background: white;
+  padding: 2.5rem;
+  border-radius: 0.75rem;
+  box-shadow: var(--shadow-md);
+  max-width: 600px;
+}
+
+.form-actions {
+  margin-top: 2rem;
+}
+
